@@ -28,3 +28,5 @@ Today I drew a new design of the case.
 <img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250615draft.jpg" height="400" alt="case">
 
 I calculated the height so the screw will fit.
+
+**Total time spent: 5h**
