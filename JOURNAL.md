@@ -13,5 +13,18 @@ I was so impressed by everyone in the call this morning that I decided to give h
 
 So, I followed the tutorial and changed it a little bit. Overall, that was an quick design.
 
+This is my second time designing a PCB, kinda getting used to it.
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250614pcb.png" height="400" alt="pcb">
+
+and also the do the case, but I think it's a failure, probably I'll have to design it again.
+
 **Total time spent: 8h**
 
+# June 15th:
+
+Today I drew a new design of the case.
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250615draft.jpg" height="400" alt="case">
+
+I calculated the height so the screw will fit.

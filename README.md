@@ -2,14 +2,18 @@
 
 <div align="center">I like to play osu! and probably so do you!</div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/KnowScratcher/QuakeCord/refs/heads/main/img/case.png" height="400">
+</div>
+
+
 # BOM
 Because I live in Taiwan, so I'll add a TWD column.
 
-| Item                      | Amount | Price(USD) | Total(USD) | Total(TWD) |
-| ------------------------- | ------ | ---------- | ---------- | ---------- |
-| ESP32 dev module          | 1      | 5.34       | 5.34       | 160        |
-| MPU6050 (soldered)        | 1      | 4.33       | 4.33       | 130        |
-| Case (3D print)           | 1      | 0.91       | 0.91       | 27         |
-| Jump wire (pin - socket)  | 5      | 0.19       | 0.19       | 6          |
-| Breadboard mini (45x35mm) | 1      | 0.17       | 0.17       | 5          |
-| Total                     |        |            | 10.75      | 328        |
+| Item                 | Amount | Price(USD) | Total(USD) | Total(TWD) |
+|----------------------|--------|------------|------------|------------|
+| XIAO-RP2040          | 1      | 7.41       | 7.41       | 219        |
+| Custom PCB           | 1      | 4.00       | 4.00       | 119        |
+| Cherry MX key switch | 9      | 0.37       | 3.35       | 99         |
+| 3D printed case      | 1      | 0.65       | 0.65       | 20         |
+| SSD1306 0.91' oled   | 1      | 2.34       | 2.34       | 69         |
