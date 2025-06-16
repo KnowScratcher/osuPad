@@ -5,7 +5,7 @@ description: "A mini keyboard for osu! and more."
 created_at: "2025-06-14"
 ---
 
-# June 14th:
+# June 14th: design the draft.
 
 So I just can't believe I finished all design in one day, kind of.
 
@@ -21,7 +21,7 @@ and also the do the case, but I think it's a failure, probably I'll have to desi
 
 **Total time spent: 8h**
 
-# June 15th:
+# June 15th: Fix some design parts.
 
 Today I drew a new design of the case.
 
@@ -30,3 +30,12 @@ Today I drew a new design of the case.
 I calculated the height so the screw will fit.
 
 **Total time spent: 5h**
+
+# June 16th: Realign the model parts.
+
+I think the alignment have a little bit, I mean a big trouble, so I went back to Kicad and remeasured the lengths and calculate again the measurements.
+
+To my surprise, almost none of the alignment are actually aligned, so I just fix them all, hopefully with some sweat...
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250616reclac.png" height="400" alt="recalculate">
+
