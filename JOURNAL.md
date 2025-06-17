@@ -39,3 +39,4 @@ To my surprise, almost none of the alignment are actually aligned, so I just fix
 
 <img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250616reclac.png" height="400" alt="recalculate">
 
+**Total time spent: 2h**
