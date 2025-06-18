@@ -506,7 +506,7 @@
       "plot": "../out/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "osuPad.step",
       "svg": "",
       "vrml": ""
     },
