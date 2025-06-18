@@ -17,7 +17,8 @@ Because I live in Taiwan, so I'll add a TWD column.
 | Cherry MX key switch | 9      | 0.37       | 3.35       | 99         |
 | 3D printed case      | 1      | 0.65       | 0.65       | 20         |
 | SSD1306 0.91' oled   | 1      | 2.34       | 2.34       | 69         |
-| Total                |        |            | 14.4       | 526        |
+| M3x16mm screws       | 4      | 0.1        | 0.4        | 12         |
+| Total                |        |            | 14.8       | 538        |
 
 # Journal
 The journal is in [JOURNAL.md](JOURNAL.md)
