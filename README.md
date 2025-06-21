@@ -3,7 +3,7 @@
 <p align="center">I like to play osu! and probably so do you!</p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/case.png" height="400">
+    <img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/case2.png" height="400">
 </div>
 
 
