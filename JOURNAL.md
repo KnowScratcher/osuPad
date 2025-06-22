@@ -43,4 +43,14 @@ To my surprise, almost none of the alignment are actually aligned, so I just fix
 
 # June 18th: final fix and get approved.
 
-I add the PCB to the cad and 
+I add the PCB to the cad and submit it for approval.
+
+**Total time spent: 2h**
+
+# June 20th: Place order.
+
+I send the PCB into production. Well, got stuck with the coupon problem for a while
+
+<img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250620production.png" height="400" alt="send to production">
+
+**Total time spent: 2h**
