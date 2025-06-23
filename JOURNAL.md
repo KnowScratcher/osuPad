@@ -54,3 +54,15 @@ I send the PCB into production. Well, got stuck with the coupon problem for a wh
 <img src="https://raw.githubusercontent.com/KnowScratcher/osuPad/refs/heads/main/img/20250620production.png" height="400" alt="send to production">
 
 **Total time spent: 2h**
+
+# June 22th: Got a call from delivery
+
+So, I live in Taiwan, a place that has strict rule on Chinese products.
+
+I just got a call from the delivery company to ask me for real name verification, I was first shock that I have to do this just to get my PCB. I mean, why the hack should I need to verify who I am, it's just a PCB.
+
+So, I got to verify and it didn't went so well. Well, it turns out that my SIM card cannot connect to mobil network, which prevents me from even registering. So after some talk with the customer service, I used my family's phone to verify. 
+
+That was freaking tedious, but after all, I somehow got it to work.
+
+**Total time spent: 1h**
